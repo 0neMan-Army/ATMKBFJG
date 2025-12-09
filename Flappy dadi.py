@@ -7,10 +7,10 @@ import os
 # ============================================
 
 GAME_CONFIG = {
-    'bird_image': "C:\\Users\\HP\\Pictures\\Screenshots\\Screenshot 2025-11-10 013019.png",
-    'pipe_image': "C:\\Users\\HP\\Desktop\\TP\\GAURAV JI.jpg",
-    'jump_sound': "C:\\Users\\HP\\Music\\arrre.mp3",
-    'gameover_sound': "C:\\Users\\HP\\Music\\Arey teri maa ka bhsda phat jayega meme template.mp3",
+    'bird_image': "",
+    'pipe_image': "",
+    'jump_sound': "",
+    'gameover_sound': "",
     'background_music': None,
 
     
@@ -261,3 +261,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
